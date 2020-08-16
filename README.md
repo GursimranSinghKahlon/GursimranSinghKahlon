@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on following projects:
+* [Floatex](https://links.droplee.com)
+* [Smart Blogs](https://blogs.droplee.com)
+
+🌱 I’m currently learning:
+* Gatsby
+* ReactJS
+
+
 <!--
 **GursimranSinghKahlon/GursimranSinghKahlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
