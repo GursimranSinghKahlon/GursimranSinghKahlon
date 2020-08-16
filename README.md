@@ -7,7 +7,12 @@
 🌱 I’m currently learning:
 * Gatsby
 * ReactJS
+* GraphQL
 
+✨ Skill Set:
+* Web Development
+* Data Science
+* Web Scraping
 
 <!--
 **GursimranSinghKahlon/GursimranSinghKahlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
